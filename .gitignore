@@ -1,2 +1,5 @@
 #Ignore the Following File types
 data/
+.ipynb_checkpoints/
+.idea
+.DS_Store
